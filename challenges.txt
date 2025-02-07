@@ -1,0 +1,2 @@
+1.No column names
+2.For data,I have foldernme where the data is available but in two different dimension 360x360 and second 160 x 120
